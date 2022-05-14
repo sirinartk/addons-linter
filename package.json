@@ -42,7 +42,7 @@
     "ajv-merge-patch": "4.1.0",
     "chalk": "2.4.2",
     "cheerio": "1.0.0-rc.3",
-    "columnify": "1.5.4",
+    "columnify": "1.6.0",
     "common-tags": "1.8.0",
     "deepmerge": "4.2.2",
     "dispensary": "0.44.0",
@@ -72,7 +72,7 @@
     "whatwg-url": "7.1.0",
     "yargs": "14.0.0",
     "yauzl": "2.10.0",
-    "snyk": "1.239.3"
+    "snyk": "1.465.0"
   },
   "devDependencies": {
     "@babel/cli": "7.6.4",
