@@ -47,7 +47,7 @@
     "deepmerge": "4.2.2",
     "dispensary": "0.44.0",
     "es6-promisify": "6.0.2",
-    "eslint": "5.16.0",
+    "eslint": "7.0.0",
     "eslint-plugin-no-unsafe-innerhtml": "1.0.16",
     "eslint-visitor-keys": "1.1.0",
     "espree": "6.1.2",
@@ -58,13 +58,13 @@
     "is-mergeable-object": "1.1.1",
     "jed": "1.1.1",
     "mdn-browser-compat-data": "0.0.98",
-    "os-locale": "4.0.0",
+    "os-locale": "5.0.0",
     "pino": "5.13.5",
     "postcss": "7.0.21",
     "probe-image-size": "5.0.0",
     "regenerator-runtime": "0.13.3",
     "relaxed-json": "1.0.3",
-    "semver": "6.3.0",
+    "semver": "7.5.2",
     "source-map-support": "0.5.15",
     "strip-bom-stream": "4.0.0",
     "tosource": "1.0.0",
@@ -72,7 +72,7 @@
     "whatwg-url": "7.1.0",
     "yargs": "14.0.0",
     "yauzl": "2.10.0",
-    "snyk": "1.239.3"
+    "snyk": "1.685.0"
   },
   "devDependencies": {
     "@babel/cli": "7.6.4",
